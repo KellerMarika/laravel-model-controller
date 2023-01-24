@@ -29,8 +29,9 @@
 
 
 
-    @include('partials.footer')
 
+    
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
 </body>
 
 </html>
